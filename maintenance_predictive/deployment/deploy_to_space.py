@@ -31,7 +31,7 @@ except Exception:  # pragma: no cover
         pass
 
 
-DEFAULT_SPACE_ID = "Yashwanthsairam/engine-predictive-maintenance"
+DEFAULT_SPACE_ID = "Yashwanthsairam/maintenance-predictive-mlops"
 DEPLOY_DIR_DEFAULT = "maintenance_predictive/deployment"
 
 

@@ -24,7 +24,7 @@ st.set_page_config(
 # Configure via Space → Settings → Variables & secrets
 MODEL_REPO = os.getenv(
     "MODEL_REPO",
-    "Yashwanthsairam/engine-predictive-maintenance-xgboost"
+    "Yashwanthsairam/maintenance-predictive-mlops-xgboost"
 )
 MODEL_FILENAME = os.getenv(
     "MODEL_FILENAME",
